@@ -116,16 +116,16 @@ ul li {
     width: 100%;
 }
 
+.rust {
+    width: 20%;
+}
+
 .java {
-    width: 60%;
+    width: 70%;
 }
 
 .javascript {
     width: 50%;
-}
-
-.sql {
-    width: 80%;
 }
 
 .experience_block {
